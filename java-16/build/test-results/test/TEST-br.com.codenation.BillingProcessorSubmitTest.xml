@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.codenation.BillingProcessorSubmitTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-05-11T23:18:32" hostname="DESKTOP-9D8AD4G" time="2.041">
+  <properties/>
+  <testcase name="testCashPayment" classname="br.com.codenation.BillingProcessorSubmitTest" time="1.748"/>
+  <testcase name="testTransferPayment" classname="br.com.codenation.BillingProcessorSubmitTest" time="0.078"/>
+  <testcase name="testDebitCardPayment" classname="br.com.codenation.BillingProcessorSubmitTest" time="0.094"/>
+  <testcase name="testCreditCardPayment" classname="br.com.codenation.BillingProcessorSubmitTest" time="0.118"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

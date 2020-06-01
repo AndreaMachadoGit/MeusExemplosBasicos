@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3f14b47-85c9-4826-9e38-02dd71fb28ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1YOIzIb9KhBam4F9KXFgSsXjNHY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.DesafioApplicationTest">
+    <configuration name="DesafioApplicationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;br.com.codenation.desafioexe.DesafioApplicationTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'java-0.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.DesafioApplicationTest" />
+        <item itemvalue="Gradle.Tests in 'java-0.test'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3f14b47-85c9-4826-9e38-02dd71fb28ab" name="Default Changelist" comment="" />
+      <created>1582807488549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582807488549</updated>
+      <workItem from="1582807551903" duration="4315000" />
+      <workItem from="1582816285229" duration="198000" />
+      <workItem from="1582816526574" duration="52000" />
+      <workItem from="1582816740381" duration="136000" />
+      <workItem from="1583171774036" duration="1013000" />
+      <workItem from="1583261361231" duration="50000" />
+      <workItem from="1583869018873" duration="312000" />
+      <workItem from="1583869798013" duration="4000" />
+      <workItem from="1584725353301" duration="929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582809489357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1582809489357" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1582809868115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582809868115" />
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom" timestamp="1583869331811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583869331811" />
+    <state width="1323" height="227" key="GridCell.Tab.0.center" timestamp="1583869331811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583869331811" />
+    <state width="1323" height="227" key="GridCell.Tab.0.left" timestamp="1583869331811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583869331811" />
+    <state width="1323" height="227" key="GridCell.Tab.0.right" timestamp="1583869331811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583869331811" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1582815281645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582815281645" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1582815281645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582815281645" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1582815281645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582815281645" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1582815281645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582815281645" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1582808503828">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582808503828" />
+  </component>
+</project>
